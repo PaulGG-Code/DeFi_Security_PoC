@@ -21,7 +21,7 @@ npx hardhat help
 > Run
 
 ```
-npx hardhat run --network hardhat scripts/hackerdao-script.js
+npx hardhat run --network hardhat scripts/fegexpro-attack.js 
 ```
 
 > Result
